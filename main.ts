@@ -4,7 +4,7 @@
 // MCP23017 makecode extension (micro:bit target)
 // Implements: init, setAddress, per-pin mode/pullup/digitalRead/Write, per-port read/write/mode
 
-//% color=#1B80C4 icon="" block="MCP23017"
+//% color=#1B80C4 icon="\uf2db" block="MCP23017"
 namespace MCP23017 {
     // MCP23017 register addresses (BANK=0)
     const IODIRA = 0x00
