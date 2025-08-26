@@ -1,6 +1,6 @@
 {
 "name": "pxt-mcp23017-microbit-full",
-"version": "0.0.1",
+"version": "0.0.2",
 "description": "Full-featured MCP23017 I2C port expander for micro:bit MakeCode: init, address select, pin/port input-output, pull-ups, digitalRead/Write, readPort/writePort.",
 "license": "MIT",
 "dependencies": {
